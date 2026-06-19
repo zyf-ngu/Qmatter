@@ -1,9 +1,14 @@
 # Qmatter - AI大模型入门系列（笔记&代码）
 
-视频链接
-B站：不如语冰
-https://space.bilibili.com/70431433?spm_id_from=333.1007.0.0。
+视频链接  
+
+B站：不如语冰  
+
+https://space.bilibili.com/70431433?spm_id_from=333.1007.0.0。  
+
 小红书：不如语冰（AI大模型版）26183735367
+
+
 https://www.xiaohongshu.com/user/profile/6846bd9c000000001e03dbc5?m_source=mingfenghuohu
 
 
